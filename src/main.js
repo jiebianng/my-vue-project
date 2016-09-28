@@ -1,3 +1,5 @@
+require('./style/main.css');
+require('./plug/zepto');
 import Vue from 'vue'
 import App from './App'
 
